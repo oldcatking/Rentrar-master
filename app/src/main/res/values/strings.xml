@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rentrar</string>
+    <string name="new_user">New User</string>
+    <string name="create_account">Create Account</string>
+    <string name="first_name">First Name</string>
+    <string name="email">Email</string>
+    <string name="last_name">Last Name</string>
+    <string name="password">Password</string>
+</resources>
